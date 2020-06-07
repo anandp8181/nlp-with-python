@@ -1,1 +1,2 @@
 # nlp-with-python
+This project is aimed at extracting references from all articles of nine flagship journal artifacts published on springer.com and onlinelibrary.wiley.com using beautiful soup package, pdfminer, Selenium and Regular expressions. All the extracted references are then saved in CSV file and performed data analysis to findout insights such as Most frequently appeared topics using LDA/LSA topic modeling.
